@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicBox</string>
+    <string name="track0_title">Blessed Be</string>
+    <string name="track0_artist">Spiritbox</string>
+
+    <string name="track1_title">Eyrie</string>
+    <string name="track1_artist">Ne Obliviscaris</string>
+
+    <string name="track2_title">Canada</string>
+    <string name="track2_artist">Ramzoid</string>
+</resources>
